@@ -31,31 +31,4 @@ This is the clone of Kohls.com,This Is Ecommerce Webisite We are Develope this W
 
 
 ### Installation 
-* Clone the repository
-    ``` 
-    https://github.com/DharmeshRS/kohls_Clone.git
-    ```
-### Website Flow
-* Homepage of Website.
-  <img src="https://miro.medium.com/max/1025/1*pu7gy-oQMefCge7Zr4KEBA.png"  title="hover text">
-
-  <img src="https://miro.medium.com/max/1025/1*t_5L5QtJuopnJiYriDINNQ.png" alt="accessibility text">
-* Login Page/SignUp Page
-  <img src="https://miro.medium.com/max/525/1*N5nsIsYmHtRD8He_IE1CoQ.png" alt="accessibility text" width="500px">
-    <!-- login gif -->
-* Products Page
-  <img src="https://miro.medium.com/max/750/1*6md2_xAqaM61OgjaHsTbIg.png">
-  <img src="https://miro.medium.com/max/525/1*CuZD4PjsjEURMa6y9X3Yvg.png">
-
-* Cart
-  <img src="https://miro.medium.com/max/1025/1*PANXGT6B8nl6l2tpe6AKAw.png">
-* Checkout Page
-* Payments Page
-  <img src="https://miro.medium.com/max/960/1*akJNIQWKRNzRngadMrNYbw.jpeg">
-
-## Contributors :
-* [Dharmesh Sonar](https://github.com/DharmeshRS)
-* [Tarun Ahirwar](https://github.com/CoderTarun)
-* [Biswajit Biswal](https://github.com/biswajitchikal847)
-* [Yogesh Sambhare](https://github.com/yssambare12)
-
+* 
